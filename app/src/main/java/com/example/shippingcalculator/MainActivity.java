@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         weightET.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-                //leave empty
+
             }
 
             @Override
@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void afterTextChanged(Editable editable) {
-                //Leave empty
+
             }
         });
     }
