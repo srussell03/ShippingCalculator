@@ -10,7 +10,7 @@ public class ShipItem {
     static {
         BASE_WEIGHT = 16;
     }
-
+    
     static final double EXTRA_WEIGHT = 4.0;
 
     public ShipItem() {
